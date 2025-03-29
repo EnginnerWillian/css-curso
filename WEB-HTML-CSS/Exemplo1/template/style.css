@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.topo {
+    background-color: #0000ff;
+}
+.topo > img{
+    width: 200px;
+    height: 200px;
+    image-rendering: crisp-edges;  /* Ou pixelated */
+
+}
+
+#conteudo {
+    background-color: #ff0000;
+}
+.Produto {
+    background-color: #808080;
+    margin: 10px;
+}
+.rodape {
+    background-color: #008000;
+}

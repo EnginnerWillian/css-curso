@@ -1,0 +1,21 @@
+.b {
+    background-color: rgb(240, 181, 181);
+    width: 300px;
+    margin: 20px;
+}
+
+.top {
+    border-top-style: solid;
+}
+
+.bottom{
+    border-bottom-style: dashed;
+}
+
+.left {
+    border-left-style: dotted;
+}
+
+.right {
+    border-right-style: double;
+}

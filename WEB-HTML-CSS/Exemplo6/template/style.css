@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+ul a {
+    width: 200px;
+    height: 40px;
+    display: block ;
+    color: #000;
+    text-decoration: none;
+    text-indent: 40px;
+    padding: 5px 20px;
+    line-height: 40px;
+    background: #f7b600 url(../arquivos/menu.png) no-repeat left center ;
+
+}
+
+a:hover  .selecionado a {
+    background-position: right bottom;
+    background-color: #f99200;
+    color: #fff;
+}
+
+#home .navegacao .home a {
+    background-position: right bottom;
+    background-color: #f99200;
+    color: #fff;
+}
+
+#sobre .navegacao .sobre a {
+    background-position: right bottom;
+    background-color: #f99200;
+    color: #fff;
+}

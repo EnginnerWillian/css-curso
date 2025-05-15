@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#wn {
+    width: 920px;
+    border: 5px solid red;
+}
+.conteudo {
+    background-color: #e5e5e5;
+    margin: 30px;
+    width: 200px;
+    height: 200px;
+    padding: 10;
+    float: left;
+}
